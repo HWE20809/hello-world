@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-just another rip
+just another of writing a readme
